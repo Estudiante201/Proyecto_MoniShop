@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MoniShop</string>
+
+    <string-array name="lista_categoria">
+        <item>accesorio</item>
+        <item>cuidado personal</item>
+        <item>ropa</item>
+        <item>cuidado de la belleza</item>
+        <item>articulo hogar</item>
+    </string-array>
+</resources>
